@@ -1,4 +1,4 @@
-# Tour-De-France-Challenge
+# Tour de France challenge
 Personal fitness challenge for when the Tour De France is on - I cycle 10% of the distance
 
 
