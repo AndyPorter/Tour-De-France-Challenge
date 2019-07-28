@@ -11,5 +11,8 @@ I keep track in a spreadsheet, which i make a copy of each year, and update the 
 Google sheet for 2019 - to copy for your own use. https://drive.google.com/open?id=11IAgU-F7JQRHi5swBXOIAKZ1Y4g2O7_R2wmB6dcM5ss
 
 
-## Todo
-upload previous years completed sheets 
+## Completed challenges
+
+* [2019](https://drive.google.com/open?id=1Q_x5YoQQtkuCv5r0gcfbpW-lwpWlGkEBVXep1KzszdM)
+* [2018](https://drive.google.com/open?id=1CzeeoygDchos91_OI9TResd3UyKIIqPiSUv-L1F2Ghs)
+* [2017](https://drive.google.com/open?id=1guCeeUoWKF85aPY3EOsYf-LTisi2grQWl6FlVSHaP9M)
